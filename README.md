@@ -8,7 +8,7 @@ Este proyecto consiste en el desarrollo de una aplicación web que cruza informa
 
 ## Estructura del proyecto
 
-* La carpeta server contiene el código fuente para el servidor htttp en Flask, los archivos estáticos y las plantillas html
+* La carpeta server contiene el código fuente para el servidor htttp en el framework Flask, los archivos estáticos y las plantillas html
 * La carpeta CALA-ANALYCTICS contiene los dos archivos correspondientes a la base de datos
 
 ## Librerías 
